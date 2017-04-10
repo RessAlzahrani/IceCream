@@ -1,0 +1,55 @@
+.Main{
+  background-image: url("images/StrippedWhitebg.jpg");
+}
+.Coffee{
+  background-image: url("images/Coffee2.jpg");
+  background-repeat: no-repeat;
+  align-items: center;
+  text-align: center;
+  border: 1px solid #;
+  color:
+}
+
+.DarkChocolate{
+  background-image: url("images/DarkChocolate.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+
+}
+
+.Avocado{
+  background-image: url("images/Avocado2.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.Coconut{
+  background-image: url("images/Coconut2.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.Almond{
+  background-image: url("images/Almond2.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+}
+th{
+  text-align: center;
+  padding: 200px;
+  font-size: 50px;
+  color: DarkSlateGrey;
+}
+td
+{
+  padding: 200px;
+  text-align: center;
+  font-size: 35px;
+  color: SlateGrey;
+  text-outline: 2px 2px #ff0000;
+}
+h1{
+  color: RosyBrown;
+  letter-spacing: 2px;
+  font-size: 100px;
+}
